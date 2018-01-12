@@ -16,19 +16,19 @@ categories: jekyll update
  <div class="overly">
       <div class="position-center">
             <a href="https://github.com/ishashah28/Employee-Retention" target="_blank">
-                            <h2>Employee Retention</h2>
-                            <p>Derived factors that drive employee churn rate using Decision Tree </p>
-                 </a>
-                          </div>
-                        </div>
+               <h2>Employee Retention</h2>
+                  <p>Derived factors that drive employee churn rate using Decision Tree </p>
+                    </a>
+                      </div>
+                       </div>
  <div class="overly">
      <div class="position-center">
-                          <h2>Identifying Fraud User </h2>
-                         <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
-                          <p> Classifying user as fraud using Random Forest Classifier</p>
-         </a>
+         <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
+           <h2>Identifying Fraud User </h2>
+                <p> Classifying user as fraud using Random Forest Classifier</p>
+                    </a>
                         </div>
-                      </div>
+                            </div>
           
 
  
