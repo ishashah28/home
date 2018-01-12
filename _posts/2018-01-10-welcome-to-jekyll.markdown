@@ -4,22 +4,42 @@ title:  "Projects!"
 date:   2018-01-10 00:10:45
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+<div class="portfolio-contant">
+                <ul id="portfolio-contant-active">
+                    <li class="mix Data">
+                      <a href="https://github.com/hengrumay/recipes" target="_blank">
+                        <img src="{{ site.baseurl }}/img/portfolio/wk_polygon_04a.png" alt="">
+                        <div class="overly">
+                          <div class="position-center">
+                            <h2>Menu-Planner-Helper</h2>
+                            <p>Building a recipe-difficulty tagger <br>
+                                with<br> 
+                              Natural Language Processing (NLP) </p>
+                          </div>
+                        </div>
+                      </a>
+                  </li>
+                  <li class="mix Data">
+                      <a href="https://github.com/hengrumay/image_classification" target="_blank">
+                        <img src="{{ site.baseurl }}/img/portfolio/wk_mesh_03.jpg" alt="">
+                        <div class="overly">
+                          <div class="position-center">
+                            <h2>Image<br>Classification</h2>
+                            <p>  Classifying satellite imagery <br> using <br> Convolutional Neural Networks (CNNs)</p>
+                          </div>
+                        </div>
+                      </a>
+                  </li>                      
+                  <li class="mix Hackathon">
+                    <a href="https://hengrumay.github.io/_pages/bbc_100_women_challenge_2017/" target="_blank">
+                      <img src="{{ site.baseurl }}/img/portfolio/wk_Spiral_06.jpg" alt="">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>BBC 100 Women <br>Challenge 2017</h2>
+                          <p>Developing the "all-ai" app <br>to empower meeting participation</p
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+               </ul>
+              </div>      
