@@ -3,10 +3,10 @@ title: Isha Shah
 email: isha.m.shah@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl:"/home"
+baseurl: "/home"
 url: "http://ishashah28.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+#twitter_username: taniarascia
+github_username:  ishashah28
 # Build Settings
 sass:
   sass_dir: _sass
