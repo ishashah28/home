@@ -4,3 +4,24 @@ layout: default
 
   <h2>Isha Shah</h2>
 This is a Data Science Blog and Projects. Website and blog is in progress...
+
+You can connect with me on LinkedIn :
+<ul>
+{% if site.linkedin_username %}
+  <li>
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+      <i class="fa fa-linkedin"></i> LinkedIn
+    </a>
+  </li>
+{% endif %}
+</ul>
+My Github Profile :
+<ul>
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+</ul>
