@@ -4,17 +4,11 @@ title:  "Projects!"
 date:   2018-01-10 00:10:45
 categories: jekyll update
 ---
-<section id="portfolio-work">
-    <div class="container">
-        <div class="row justify-content-center" >
-          <div class="clearfix visible-sm-block"></div>
-          <div class="col-md-12 col-md-auto col-sm-auto col-sx-auto">
-            <div class="block">
-               <div class="portfolio-contant">
+ <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
-                    <li class="mix Data">
+                    <!--li class="mix Data"-->
                       <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
-                        <img src="{{ site.baseurl }}/blog/wk_signal_waves_05.png" alt="">
+                        <!--img src="{{ site.baseurl }}/blog/wk_signal_waves_05.png" alt=""-->
                         <div class="overly">
                           <div class="position-center">
                             <h2>Conversion Rate</h2>
@@ -22,7 +16,7 @@ categories: jekyll update
                           </div>
                         </div>
                       </a>
-                  </li>
+                  <!--/li-->
                   <li class="mix Data">
                       <a href="https://github.com/ishashah28/Employee-Retention" target="_blank">
                         <img src="{{ site.baseurl }}/blog/wk_mesh_03.jpg" alt="">
