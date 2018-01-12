@@ -24,7 +24,7 @@ categories: jekyll update
  <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
                       <div class="overly">
                         <div class="position-center">
-                          <h2>Identifying Fraud User 2017</h2>
+                          <h2>Identifying Fraud User </h2>
                           <p> Classifying user as fraud using Random Forest Classifier</p>
                         </div>
                       </div>
