@@ -17,9 +17,9 @@ categories: jekyll update
                         </div>
                       </a>
                   <!--/li-->
-                  <li class="mix Data">
+                 <br></br>
                       <a href="https://github.com/ishashah28/Employee-Retention" target="_blank">
-                        <img src="{{ site.baseurl }}/blog/wk_mesh_03.jpg" alt="">
+                        <!--img src="{{ site.baseurl }}/blog/wk_mesh_03.jpg" alt=""-->
                         <div class="overly">
                           <div class="position-center">
                             <h2>Employee Retention</h2>
@@ -27,10 +27,9 @@ categories: jekyll update
                           </div>
                         </div>
                       </a>
-                  </li>                      
-                  <li class="mix Hackathon">
+              <br></br>                    
                     <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
-                      <img src="{{ site.baseurl }}/blog/wk_Spiral_06.jpg" alt="">
+                      <!--img src="{{ site.baseurl }}/blog/wk_Spiral_06.jpg" alt=""-->
                       <div class="overly">
                         <div class="position-center">
                           <h2>Identifying Fraud User 2017</h2>
@@ -38,13 +37,8 @@ categories: jekyll update
                         </div>
                       </div>
                     </a>
-                  </li>
                   </ul>
                 </div>
-             </div>
-          </div>
-        </div>
-    </div>
-</section>
+
  
           
