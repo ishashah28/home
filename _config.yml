@@ -5,7 +5,7 @@ description: >
   A guide to getting started with Blogs and projects.
 baseurl: "/home"
 url: "http://ishashah28.github.io"
-linkedin_username : shahisha
+linkedin_username: shahisha
 github_username:  ishashah28
 # Build Settings
 sass:
