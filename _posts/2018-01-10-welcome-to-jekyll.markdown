@@ -4,42 +4,37 @@ title:  "Projects!"
 date:   2018-01-10 00:10:45
 categories: jekyll update
 ---
-<div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
-                    <li class="mix Data">
-                      <a href="https://github.com/hengrumay/recipes" target="_blank">
+ <li class="mix Data">
+                      <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
                         <img src="{{ site.baseurl }}/img/portfolio/wk_polygon_04a.png" alt="">
                         <div class="overly">
                           <div class="position-center">
-                            <h2>Menu-Planner-Helper</h2>
-                            <p>Building a recipe-difficulty tagger <br>
-                                with<br> 
-                              Natural Language Processing (NLP) </p>
+                            <h2>Conversion Rate</h2>
+                            <p>Predict Conversion rate of users using scikit,numpy,pandas</p>
                           </div>
                         </div>
                       </a>
                   </li>
                   <li class="mix Data">
-                      <a href="https://github.com/hengrumay/image_classification" target="_blank">
+                      <a href="https://github.com/ishashah28/Employee-Retention" target="_blank">
                         <img src="{{ site.baseurl }}/img/portfolio/wk_mesh_03.jpg" alt="">
                         <div class="overly">
                           <div class="position-center">
-                            <h2>Image<br>Classification</h2>
-                            <p>  Classifying satellite imagery <br> using <br> Convolutional Neural Networks (CNNs)</p>
+                            <h2>Employee Retention</h2>
+                            <p>Derived factors that drive employee churn rate using Decision Tree </p>
                           </div>
                         </div>
                       </a>
                   </li>                      
                   <li class="mix Hackathon">
-                    <a href="https://hengrumay.github.io/_pages/bbc_100_women_challenge_2017/" target="_blank">
+                    <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
                       <img src="{{ site.baseurl }}/img/portfolio/wk_Spiral_06.jpg" alt="">
                       <div class="overly">
                         <div class="position-center">
-                          <h2>BBC 100 Women <br>Challenge 2017</h2>
-                          <p>Developing the "all-ai" app <br>to empower meeting participation</p
+                          <h2>Identifying Fraud User 2017</h2>
+                          <p> Classifying user as fraud using Random Forest Classifier</p>
                         </div>
                       </div>
                     </a>
                   </li>
-               </ul>
-              </div>      
+          
