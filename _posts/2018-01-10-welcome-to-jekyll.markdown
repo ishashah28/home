@@ -6,7 +6,7 @@ categories: jekyll update
 ---
  <li class="mix Data">
                       <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
-                        <img src="{{ site.baseurl }}/img/portfolio/wk_polygon_04a.png" alt="">
+                        <img src="{{ site.baseurl }}/img/portfolio/wk_signal_waves_05.png" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>Conversion Rate</h2>
