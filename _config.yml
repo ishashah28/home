@@ -1,11 +1,10 @@
 # Site Settings
-title: Isha Shah
+title: Welcome
 email: isha.m.shah@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  A guide to getting started with Blogs and projects.
 baseurl: "/home"
 url: "http://ishashah28.github.io"
-#twitter_username: taniarascia
 github_username:  ishashah28
 # Build Settings
 sass:
