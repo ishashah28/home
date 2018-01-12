@@ -4,7 +4,13 @@ title:  "Projects!"
 date:   2018-01-10 00:10:45
 categories: jekyll update
 ---
-<div class="portfolio-contant">
+<section id="portfolio-work">
+    <div class="container">
+        <div class="row justify-content-center" >
+          <div class="clearfix visible-sm-block"></div>
+          <div class="col-md-12 col-md-auto col-sm-auto col-sx-auto">
+            <div class="block">
+               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
                     <li class="mix Data">
                       <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
@@ -39,7 +45,12 @@ categories: jekyll update
                       </div>
                     </a>
                   </li>
- </ul>
- </div>
+                  </ul>
+                </div>
+             </div>
+          </div>
+        </div>
+    </div>
+</section>
  
           
