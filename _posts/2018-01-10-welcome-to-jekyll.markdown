@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 <div class="overly">
     <div class="position-center">
-        <img src="{{ site.baseurl }}/blog/wk_signal_waves_05.png" alt="">{:height="36px" width="36px"}
            <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
             <h2>Conversion Rate</h2>
                <p> Predict Conversion rate of users using scikit,numpy,pandas </p>
