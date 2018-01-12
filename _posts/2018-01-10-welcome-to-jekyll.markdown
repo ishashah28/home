@@ -4,13 +4,15 @@ title:  "Projects!"
 date:   2018-01-10 00:10:45
 categories: jekyll update
 ---
- <li class="mix Data">
+<div class="portfolio-contant">
+                <ul id="portfolio-contant-active">
+                    <li class="mix Data">
                       <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
                         <img src="{{ site.baseurl }}/img/portfolio/wk_signal_waves_05.png" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>Conversion Rate</h2>
-                            <p>Predict Conversion rate of users using scikit,numpy,pandas</p>
+                            <p> Predict Conversion rate of users using scikit,numpy,pandas </p>
                           </div>
                         </div>
                       </a>
@@ -37,4 +39,7 @@ categories: jekyll update
                       </div>
                     </a>
                   </li>
+ </ul>
+ </div>
+ 
           
