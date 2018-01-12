@@ -7,7 +7,8 @@ permalink: /contact/
 Please feel free to reach out to me!!
 
 My e-mail is [isha.m.shah@gmail.com](mailto:isha.m.shah@gmail.com).
-
+<ul>
+  
 You can also connect with me on LinkedIn :
 
 {% if site.linkedin_username %}
@@ -27,3 +28,4 @@ My Github Profile :
     </a>
   </li>
 {% endif %}
+</ul>
