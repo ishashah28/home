@@ -21,15 +21,15 @@ categories: jekyll update
                  </a>
                           </div>
                         </div>
- <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
-                      <div class="overly">
-                        <div class="position-center">
+ <div class="overly">
+     <div class="position-center">
                           <h2>Identifying Fraud User </h2>
+                         <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
                           <p> Classifying user as fraud using Random Forest Classifier</p>
+         </a>
                         </div>
                       </div>
-                    </a>
-
+          
 
  
           
