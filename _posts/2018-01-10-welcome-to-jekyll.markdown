@@ -9,19 +9,19 @@ categories: jekyll update
            <a href="https://github.com/ishashah28/Conversion-Rate" target="_blank">
             <h2>Conversion Rate</h2>
                <p> Predict Conversion rate of users using scikit,numpy,pandas </p>
+                </a>
                  </div>
                     </div>
-                      </a>
+                     
  <div class="overly">
       <div class="position-center">
             <a href="https://github.com/ishashah28/Employee-Retention" target="_blank">
                             <h2>Employee Retention</h2>
                             <p>Derived factors that drive employee churn rate using Decision Tree </p>
+                 </a>
                           </div>
                         </div>
-                      </a>
-              <br></br>                    
-                    <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
+ <a href="https://github.com/ishashah28/Datascienceprojects" target="_blank">
                       <div class="overly">
                         <div class="position-center">
                           <h2>Identifying Fraud User 2017</h2>
@@ -29,11 +29,7 @@ categories: jekyll update
                         </div>
                       </div>
                     </a>
-      </div>
-  </div>
-  </div>
-  </div>
-  </section>
+
 
  
           
